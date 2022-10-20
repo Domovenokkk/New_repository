@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\itmm-2213-a\source\githubclone\New_repository\TC_continuation\stroki_\Source.c(12,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\itmm-2213-a\source\githubclone\New_repository\TC_continuation\stroki_\Source.c(14,11): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  stroki_.vcxproj -> C:\Users\itmm-2213-a\source\githubprojectsM\TC_continuation\Debug\stroki_.exe
